@@ -2,7 +2,7 @@
 
 <p align="center">
 É um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Você também pode participar desse projeto clicano aqui.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Você também pode conhecer e participar desse projeto clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Esse projeto é um agregador de links, uma ferramenta que simplifica a maneira de compartilhar suas informações agrupando vários links em uma única URL de forma prática e organizada. Pode servir como um cartão de visita para apresentar seus principais canais de comunicação ou outras informações relevantes para seu público, seja para uso pessoal ou profissional.
 
 - [Acesse o projeto finalizado online](https://maykbrito.github.io/devlinks)
 
@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Thalita Damasceno and Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
