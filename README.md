@@ -1,8 +1,8 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Discover </h1>
 
 <p align="center">
 É um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Você também pode conhecer e participar desse projeto clicando aqui.</a>
+Você também pode conhecer e participar desse projeto <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Discover" src=".github/readme.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,9 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto é um agregador de links, uma ferramenta que simplifica a maneira de compartilhar suas informações agrupando vários links em uma única URL de forma prática e organizada. Pode servir como um cartão de visita para apresentar seus principais canais de comunicação ou outras informações relevantes para seu público, seja para uso pessoal ou profissional.
 
-- [Acesse o projeto finalizado online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado online](https://thalitaad.github.io/agregador-de-links/)
 
 ## 🔖 Layout
 
