@@ -2,7 +2,7 @@
 
 <p align="center">
 É um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-Você também pode conhecer e participar desse projeto <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">clicando aqui.</a>
+Você também pode conhecer e participar desse projeto <a href="https://www.rocketseat.com.br/discover?utm_source=instagram&utm_medium=maykbrito&utm_campaign=divulgacao&utm_term=organic&utm_content=instagram-do-mayk">clicando aqui.</a>
 </p>
 
 <p align="center">
