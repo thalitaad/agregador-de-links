@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
@@ -12,36 +11,41 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div id="container">
+     <header> <!-- Contém o perfil e botão de modo -->
         <div id="profile">
-          <img src="./assets/avatar.png" alt="Foto de Thalita Damasceno">
-            <p>Thalita Damasceno</p>
-        </div>
+            <img src="./assets/avatar.png" alt="Foto de Thalita Damasceno">
+              <p>Thalita Damasceno</p>
+          </div>
+  
+          <div id="switch" onclick="
+          toggleMode()">
+              <button></button>
+              <span></span>
+          </div>
+    </header>
 
-        <div id="switch" onclick="
-        toggleMode()">
-            <button></button>
-            <span></span>
-        </div>
+     <main id="container"> <!-- Conteúdo principal da página com navegação e links sociais -->
+        <nav> 
+            <ul>
+                <li>
+                    <a href="#" target="_blank">Sobre mim</a>
+                </li>
 
-        <ul>
-            <li>
-                <a href="#" target="_blank">Sobre mim</a>
-            </li>
+                <li>
+                    <a href="https://github.com/thalitaad/agregador-de-links" target="_blank">Sobre o projeto</a>
+                </li>
 
-            <li>
-                <a href="https://github.com/thalitaad/agregador-de-links" target="_blank">Sobre o projeto</a>
-            </li>
+                <li>
+                    <a href="https://github.com/thalitaad" target="_blank">Ver meu portfólio</a>
+                </li>
 
-            <li>
-                <a href="https://github.com/thalitaad" target="_blank">Ver meu portfólio</a>
-            </li>
+                <li>
+                    <a href="#" target="_blank">Informações de contato</a>
+                </li>
+            </ul>
+        </nav>
 
-            <li>
-                <a href="#" target="_blank">Informações de contato</a>
-            </li>
-        </ul>
-        <div id="social-links">
+        <section id="social-links">
             <a href="https://github.com/thalitaad" target="_blank">
                 <ion-icon name="logo-github"></ion-icon>
             </a>
@@ -54,15 +58,18 @@
             <a href="https://t.me/thalita_ad" target="_blank">
                 <ion-icon name="send-outline"></ion-icon>
             </a>
-        </div>
-        <footer>
-            Feito por <a href="https://www.linkedin.com/in/thalita-damasceno/" target="_blank">Thalita Damasceno</a>
-        </footer>
-    </div>
+        </section> 
+
+    </main>
+          
+     <footer> <!-- Infomrações de rodapé -->
+        Feito por <a href="https://www.linkedin.com/in/thalita-damasceno/" target="_blank">Thalita Damasceno</a>
+    </footer>
 
     <script  type = "module"  src = "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"> </script> 
     <script  nomodule  src = "https://unpkg .com/ionicons@7.1.0/dist/ionicons/ionicons.js" > </script>
 
     <script src="./script.js"></script>
+    
 </body>
 </html>
